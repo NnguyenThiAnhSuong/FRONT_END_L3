@@ -1,0 +1,109 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    position: relative;
+
+  }
+.header .header-slogan{
+  margin-right: 10px;
+}
+.header .header-logo{
+  margin-left: 7px;
+  cursor: pointer;
+}
+.introduce {
+  text-align: center;
+}
+.program {
+  text-align: center;
+  margin: 0px auto;
+  text-align: center;
+  
+}
+.list .box a{
+  display: block;
+  text-decoration: none;
+    color: crimson;
+  font-size: 15px;
+  padding: 5px 0;
+}
+.program .program-title .list {
+  width:100%
+}
+.program .box a{
+  text-decoration: none;
+  text-align: left;
+}
+.the-end {
+  position: relative;
+  margin: 5px;
+}
+.the-end .img-link a{
+  margin-right: 0px;
+  font-size: 15px;
+
+}
+.the-end .the-end .caption {
+  position: absolute;
+  left: 7px;
+  top: 400px;
+}
+.the-end .the-end .the-end-2-1 .link-content{
+  position: absolute;
+  left: 5px;
+  top: 170px;
+  color: white;
+  text-decoration:none;
+}
+.the-end .the-end .the-end-2-3 .link-content {
+  position: absolute;
+  left: 5px;
+  top: 380px;
+  color: white;
+  text-decoration:none;
+}
+.the-end .the-end .the-end-2-2 .link-content {
+  position: absolute;
+  left: 5px;
+  top: 170px;
+  color: white;
+  text-decoration:none;
+}
+.the-end .the-end .the-end-2-4 .link-content {
+  position: absolute;
+  left: 5px;
+  top: 380px;
+  color: white;
+  background-size: 100%;
+  text-transform: uppercase;
+  text-decoration:none;
+  background-size:cover;
+}
+.menu {
+  margin: 50x;
+}
+.menu .menu-1  li  {
+  list-style: none;
+  float: left;
+  padding: 5px 9px;
+  font-size:15px;
+
+}
+.menu .menu-1 li a{
+  text-decoration: none;
+  color:brown;
+}
+
+ .list .box p{
+  margin: 0;
+  font-size: 15px;
+  text-align: left;
+ }
+.img-link a{
+    background: black;
+    opacity: 0.7;
+    border-bottom: 2px solid #eb4646;
+    margin-bottom: 80px;
+}
